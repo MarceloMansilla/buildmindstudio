@@ -1,0 +1,21 @@
+{
+  "name": "buildmindstudio",
+  "version": "1.0.0",
+  "description": "website buildmindstudio",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloMansilla/buildmindstudio.git"
+  },
+  "author": "MarceloMansilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloMansilla/buildmindstudio/issues"
+  },
+  "homepage": "https://github.com/MarceloMansilla/buildmindstudio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
